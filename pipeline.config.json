@@ -1,0 +1,18 @@
+{
+  "environments": {
+    "dev": {
+      "name": "dev",
+      "env": {
+        "account": "399506011885",
+        "region": "us-west-2"
+      }
+    },
+    "production": {
+      "name": "prod",
+      "env": {
+        "account": "399506011885",
+        "region": "us-west-2"
+      }
+    }
+  }
+}
